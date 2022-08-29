@@ -1,6 +1,5 @@
 # nlp-wine-reviews-prediction
-NLP sentiment analysis project which aims to predict wine reviews scores using various NLP &amp; Deep Learning techniques. <br>
-The whole project summary is presented inside [raport.ipynb](raport.ipynb) (in Polish).
+NLP sentiment analysis project which aims to predict wine reviews scores using various NLP &amp; Deep Learning techniques. The whole project summary is presented inside [raport.ipynb](raport.ipynb) (in Polish).
 
 ## Techniques
 
