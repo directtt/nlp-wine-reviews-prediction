@@ -1,5 +1,6 @@
 # nlp-wine-reviews-prediction
-NLP sentiment analysis project which aims to predict wine reviews scores using various NLP &amp; Deep Learning techniques.
+NLP sentiment analysis project which aims to predict wine reviews scores using various NLP &amp; Deep Learning techniques. <br>
+The whole project summary is presented inside [raport.ipynb](raport.ipynb) (in Polish).
 
 ## Techniques
 
@@ -7,4 +8,4 @@ NLP sentiment analysis project which aims to predict wine reviews scores using v
 - Naive Bayes (Baseline), Random Forest, SGD, CatBoost using above text representations
 - Deep Learning NLP methods such as pretrained word embeddings (word2vec, GloVe)
 - LSTM Neural Networks using above word embeddings
-- Final model: stacking CatBoost & LSTM Glove, which achieved 80% accuracy
+- Final model: stacking CatBoost & LSTM GloVe, which achieved 80% accuracy
