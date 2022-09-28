@@ -7,4 +7,5 @@ NLP sentiment analysis project which aims to predict wine reviews scores using v
 - Naive Bayes (Baseline), Random Forest, SGD, CatBoost using above text representations
 - Deep Learning NLP methods such as pretrained word embeddings (word2vec, GloVe)
 - LSTM Neural Networks using above word embeddings
-- Final model: stacking CatBoost & LSTM GloVe, which achieved 80% accuracy
+- pretrained BERT model from [hugging face](https://github.com/huggingface)
+- Final model: stacking CatBoost & LSTM GloVe
