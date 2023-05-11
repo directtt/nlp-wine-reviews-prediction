@@ -23,10 +23,10 @@ NLP text classification project which aims to predict wine reviews scores using 
 |-----------------------------------------------------|---------------------------------|
 | Naive Bayes (baseline)                              | 0.66                            |
 | Random Forest (all features)                        | 0.73                            |
-| <font color='green'>CatBoost (all features)</font>  | <font color='green'>0.78</font> |
+|**CatBoost (all features)**  | **0.78** |
 | LSTM (GloVe)                                        | 0.75                            |
-| <font color='green'>RoBERTa (huggingface)</font>    | <font color='green'>0.77</font> |
-| <font color='green'>Stacking LSTM & CatBoost</font> | <font color='green'>0.80</font> |
+| **RoBERTa (huggingface)**   | **0.77** |
+| **Stacking LSTM & CatBoost**| **0.80** |
 
 In terms of accuracy results, the best model turned out to be stacking LSTM & CatBoost models. 
 It's worth to mention that CatBoost model itself was the best performing classic ML model. 
