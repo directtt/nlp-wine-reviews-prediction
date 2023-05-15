@@ -31,4 +31,4 @@ NLP text classification project which aims to predict wine reviews scores using 
 In terms of accuracy results, the best model turned out to be stacking LSTM & CatBoost models. 
 It's worth to mention that CatBoost model itself was the best performing classic ML model. 
 However, if I would choose final model for production I would go with RoBERTa model, 
-because of its reliability and superiority in terms of other metrics (MCC, precision, recall, f1-score).
+because of its reliability and better results in other metrics (MCC, precision, recall, f1-score).
